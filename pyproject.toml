@@ -17,4 +17,5 @@ dependencies = [
     "langchain-community>=0.3.27",
     "pypdf>=5.8.0",
     "langchain-chroma>=0.2.5",
+    "langgraph>=0.6.5",
 ]
